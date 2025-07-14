@@ -1,8 +1,14 @@
-<h3>Hi there 👋! I'm newtype0096 - <i>Application Developer</i></h3>
+<h3>Hi there 👋! I'm Choi Jin Woo - <i>Application Developer</i></h3>
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnewtype0096?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-<div align="center">
+## 🏢 Work Experiences
+- 📡 **Hancom Inspace**, Software Platform Development Team (2023.12 ~ )
+- 🖥️ **RealHub**, Development Divison (2018.06 ~ 2023.12)
+
+<h2>🛠️ Tech Skills</h2>
+
+<div>
 <!-- Languages -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -21,11 +27,13 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 </div>
 
-###
+## 🌐 Links
+- [Portfolio](https://portfolio-tau-virid-88.vercel.app/)
+- [Blog](https://newtype0096.github.io/)
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2>📊 GitHub Stats</h2>
 
-<div align="center">  
+<div>  
 <img src="https://github-readme-stats.vercel.app/api?username=newtype0096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtype0096&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 <br/>
