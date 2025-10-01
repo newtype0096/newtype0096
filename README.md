@@ -27,16 +27,25 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 </div>
 
-## 🌐 Links
-- [Portfolio](https://portfolio-tau-virid-88.vercel.app/)
-- [Blog](https://newtype0096.github.io/)
+<h2>🌐 Links</h2>
+<ul>
+<li><a href="https://portfolio-tau-virid-88.vercel.app/">Portfolio</a></li>
+<li><a href="https://newtype0096.github.io/">Blog</a></li>
+</ul>
 
 <h2>📊 GitHub Stats</h2>
 
-<div>  
-<img src="https://github-readme-stats.vercel.app/api?username=newtype0096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtype0096&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=newtype0096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newtype0096&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/newtype0096/newtype0096/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/newtype0096/newtype0096/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<h2>🏡 My Farm</h2>
+
+<div align="center">
+  <a href="https://github.com/newtype0096/">
+    <img src="https://render.gitanimals.org/farms/newtype0096" width="1280" height="420" alt="Farm" />
+  </a>
 </div>
