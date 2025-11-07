@@ -5,7 +5,7 @@
 ## 🏢 Work Experiences
 - 🖥️ **RealHub**, Research Institute (2025.11 ~ )
 - 📡 **Hancom Inspace**, Software Platform Development Division (2023.12 ~ 2025.10)
-- 🖥️ **RealHub**, Development Divison (2018.06 ~ 2023.12)
+- 🖥️ **RealHub**, Development Division (2018.06 ~ 2023.12)
 
 <h2>🛠️ Tech Skills</h2>
 
